@@ -33,7 +33,7 @@ Ensure you have Python 3 installed along with the following libraries:
 
 3. **Run the scanner:**
    ```bash
-   python 
+   python rtl_sdr_freq_scanner.py
    ```
 
 4. **Follow the on-screen prompts** to start scanning.
