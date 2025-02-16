@@ -22,8 +22,8 @@ Ensure you have Python 3 installed along with the following libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/timdigga/rtl-sdr-scanner.git
-   cd rtl-sdr-scanner
+   git clone https://github.com/timdigga/rtlsdrscanner
+   cd rtlsdrscanner
    ```
 
 2. **Install dependencies:**
@@ -33,7 +33,7 @@ Ensure you have Python 3 installed along with the following libraries:
 
 3. **Run the scanner:**
    ```bash
-   python rtl_sdr_scanner.py
+   python 
    ```
 
 4. **Follow the on-screen prompts** to start scanning.
